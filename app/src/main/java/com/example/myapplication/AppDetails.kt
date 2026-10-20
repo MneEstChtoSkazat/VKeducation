@@ -121,7 +121,7 @@ private fun Download(modifier: Modifier = Modifier) {
             shape = RoundedCornerShape(10.dp),
             colors = ButtonDefaults.buttonColors(Color(0xff0774fb))
         ) {
-            Text(text = "Скачать")
+            Text(text = "Скачать", color = Color.White)
         }
     }
 }
